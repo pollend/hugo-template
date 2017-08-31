@@ -1,0 +1,24 @@
+@import "~bootstrap/scss/bootstrap.scss";
+@import "~animate.css";
+
+@import "variable";
+
+//Base
+
+@import "base";
+@import "navbar";
+@import "footer";
+@import "base";
+
+// Sections
+
+@import "sections/bottom_title_card";
+@import "sections/features";
+@import "sections/project_list";
+@import "sections/top_title_card";
+
+// Pages
+
+@import "pages/index";
+@import "pages/list";
+@import "pages/single";
